@@ -69,10 +69,10 @@ ASISTEM operates on both B2B (Business to Business) and B2C (Business to Consume
 
 ## Team
 
-- **Andrés Vega**: Director
-- **Ricardo Zurita**: Finance Manager
-- **Maximiliano Gaete**: Development Manager
-- **Josefa Rebolledo**: Marketing Manager (Coordinator)
+- **Andrés Vega**
+- **Ricardo Zurita**
+- **Maximiliano Gaete**
+- **Josefa Rebolledo**
 
 ## References
 
